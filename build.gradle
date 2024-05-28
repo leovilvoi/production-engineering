@@ -46,7 +46,7 @@ dependencies {
 	// lombok
 
 	compileOnly 'org.projectlombok:lombok'
-	annotationProcessor 'org.projectlombok: lombok'
+	annotationProcessor 'org.projectlombok:lombok'
 
 	//	E2E tests
 	runtimeOnly "org.junit.vintage:junit-vintage-engine:5.8.2"
